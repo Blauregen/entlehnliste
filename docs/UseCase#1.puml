@@ -1,0 +1,13 @@
+@startuml
+!include <osa/printer/printer>
+
+left to right direction
+skinparam actorStyle awesome
+package Entlehnliste-Programm{
+  usecase "Leere Entlehnliste ausdrucken" as (UC1)
+}
+usecase "<$printer>" as (use)
+:Lehrkraft: --> (UC1)
+UC1 --> use
+
+@enduml
