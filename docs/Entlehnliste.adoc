@@ -1,0 +1,43 @@
+= Entlehnliste
+
+[options="header"]
+[cols="1,2,3,2,1,1,1,1,2,2,1", frame="all", stripes="even"]
+|===
+|Gerät (Nr.)
+|Zubehör (...)
+|Entlehner*in + Klasse
+|Entlehnung Datum
+|Unterschrift Entlehner*in
+|Initialen Lehrkraft
+|Rückgabe geplant
+|Rückgabe tatsächlich
+|Unterschrift Entlehner*in
+|Initialen Lehrkraft
+|Anmerkungen
+
+
+|S1|Stativschraube|Tobi 3BHITM|04.10.2023|---|EB|07.10.2023|06.10.2023|---|EB|Blub
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
+|===
+
+- Der Spaltentrenner zwischen "Initialen Lehrkraft" und "Rückgabe geplant" soll "fett" gestaltet werden
+- Der Spaltentrenner zwischen "Initialen Lehrkraft" und "Anmerkungen" soll "fett" gestaltet werden
+- Der Spaltentrenner unter dem Header soll "fett" gestaltet werden
+
+- Die Spalten "Initialen Lehrkraft" sollen mit dem Farbcode #a8a8a8 versehen werden
+- Die Header Reihe soll mit dem Farbcode #a8a8a8 versehen werden
